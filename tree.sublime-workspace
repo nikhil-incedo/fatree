@@ -1,0 +1,544 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"invoi",
+				"invoiceLineData"
+			],
+			[
+				"pr",
+				"protected"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"reco",
+				"recoupmentAmount"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"cate",
+				"categoryCodeArr"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"calculator",
+				"calculatorRun"
+			],
+			[
+				"last",
+				"lastId"
+			],
+			[
+				"las",
+				"lastId"
+			],
+			[
+				"report",
+				"report_outputs"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"out",
+				"outputCallback"
+			],
+			[
+				"Migra",
+				"Migrations"
+			],
+			[
+				"deliver",
+				"deliverS3"
+			],
+			[
+				"tab",
+				"tableCreated"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"to",
+				"toArray"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"sta",
+				"stagingOrder"
+			],
+			[
+				"stag",
+				"stagingOrder"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.php",
+			"settings":
+			{
+				"buffer_size": 563,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 108.0,
+		"last_filter": "install pa",
+		"selected_items":
+		[
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelinter",
+				"Preferences: SublimeLinter Settings – Default"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"install"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/hfaphp7/www/hfa-siren-v2/app/Repos/AdvanceTransactionRepo.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Models/PublisherNameAddress.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Repos/RoyaltyRepo.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Repos/CatalogRelateRepo.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Commands/CreateInvoiceCommandHandler.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/factories/CalculatorProfileFactory.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/AdvanceTransactionsTableSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/AppleRevenueTableSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/CalculatorProfilesTableSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Commands/CreateInvoiceCommandSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Repos/RoyaltyRepoSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/.env",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Repos/InvoiceLineRepo.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Repos/Repo.php",
+		"/D/hfaphp7/www/hfa-siren-v2/.env.example",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Repos/InvoiceCategoryDetailRepo.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/AccountsTableSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/AccountTypesTableSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/AdvanceGroupTableSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/AdvancesTableSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/InvoiceSectionsTableSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Helpers/global.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Repos/ClientDataRepo.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Calculators/RoyaltyCreator.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Commands/CreateInvoiceCommand.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Http/Controllers/InvoiceController.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/CategoryCodeSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Models/CategoryCode.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Repos/SongRepoSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Repos/SongRepo.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Repos/AdvanceTransactionRepoSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/RoyaltySpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/InvoiceSectionSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/config/endpoints/endpoints.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Http/Controllers/InvoiceOptionCategoryController.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Http/Controllers/CategoryCodeController.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Transformers/CalculatorProfileTransformer.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Transformers/Serializer.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Http/Controllers/CalculatorProfileController.php",
+		"/D/hfaphp7/www/hfa-siren-v2/config/endpoints/calculator-profiles.php",
+		"/D/hfaphp7/www/hfa-siren-v2/config/endpoints/calculation-rate-types.php",
+		"/D/hfaphp7/www/hfa-siren-v2/config/endpoints/calculations.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Http/Controllers/PayeeTypeController.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Http/Controllers/ProfileRateTypeController.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Http/Controllers/SongCodeSourceController.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Http/Controllers/DepartmentCodeController.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Http/Controllers/CalculatorController.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Http/Controllers/CalculationRateTypeController.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Http/Controllers/CalculationController.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/InvoiceProfilesTableSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Repos/CategoryCodeRepo.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Models/AdvanceTransaction.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Models/Royalty.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Transformers/Manager.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Models/Usage/AppleUsage.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/AppleUsageTableSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/factories/RoyaltyFactory.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/RoyaltyTableSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/InvoiceOptionsTableSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/RoyaltyOverridesTableSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/factories/RoyaltyOverrideFactory.php",
+		"/D/hfaphp7/www/hfa-siren-v2/config/database.php",
+		"/D/hfaphp7/www/hfa-siren-v2/config/hfa.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Http/Controllers/InvoiceControllerSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Models/InvoiceOptionCategory.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Models/InvoiceOption.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Models/CalculatorRun.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Repos/RepoSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Repos/UnprocessedRepo.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Repos/AgreementRepoSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+		"/D/hfaphp7/www/hfa-siren-v2/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/QueriesRelationships.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Models/Scopes/PayeeScope.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/PublisherSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Repos/CalculatorProfileRepo.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/DatabaseSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/InvoiceProfileSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Models/InvoiceProfile.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/LedgerTableSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/factories/AdvanceFactory.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Commands/CommandHandler.php",
+		"/C/Users/amit.maan/AppData/Roaming/Sublime Text 3/Packages/User/PHP_CodeSniffer.sublime-settings",
+		"/C/Users/amit.maan/AppData/Roaming/Sublime Text 3/Packages/PHP_CodeSniffer/PHP_CodeSniffer.sublime-settings",
+		"/C/Users/amit.maan/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/amit.maan/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/amit.maan/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/amit.maan/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/InvoiceOptionSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/PayeeGroupSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Models/PayeeGroup.php",
+		"/D/hfaphp7/bootstrap.sh",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/InvoiceOptionCategoriesTableSeeder.php",
+		"/C/Users/amit.maan/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/amit.maan/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/PayeeGroupsTableSeeder.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Models/InvoiceSection.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/factories/InvoiceProfileFactory.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/factories/InvoiceLineFactory.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/InvoicesTableSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/vendor/laravel/framework/src/Illuminate/Support/Collection.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Models/Invoice.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Repos/CalculatorRunRepo.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Repos/AgreementRepo.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Models/InvoiceLine.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/InvoiceSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/InvoiceCategoryDetailSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/InvoiceDescriptionOverrideSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/CalculatorProfileSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/AdvanceTransactionSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Models/CalculatorProfile.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/CalculationRateTypeSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/CalculationRateTypesTableSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/factories/CalculationRateTypeFactory.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Models/CalculationRateType.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/CategoryCodesTableSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Commands/PubModule/PubModuleCommandHandler.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Models/Calculation.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/InvoiceLineSpec.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/PayeeTypesTableSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/CalculatorRunsTableSeeder.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Models/Agreement.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Models/RateCalculationType.php",
+		"/D/hfaphp7/www/hfa-siren-v2/app/Commands/Command.php",
+		"/D/hfaphp7/www/hfa-siren-v2/vendor/laravel/framework/src/Illuminate/Foundation/Application.php",
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Commands/CreateInvoiceCommandHandlerSpec.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\hfaphp7\\www\\hfa-siren-v2\\",
+			"D:\\hfaphp7\\www\\hfa-siren-v2\\database\\seeds",
+			"D:\\hfaphp7\\www\\hfa-siren-v2\\",
+			"D:\\hfaphp7\\www\\hfa-siren-v2\\vendor\\aws",
+			"D:\\hfaphp7\\www\\hfa-siren-v2"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getDates",
+			"invoices",
+			"use Hfa\\Models\\CalculatorRun;\n",
+			"whereIn",
+			"ledger_id",
+			"AppleUsageTableSeeder",
+			"LedgerTableSeeder",
+			"AppleRevenueTableSeeder",
+			"UnprocessedTableSeeder",
+			"AdvancesTableSeeder",
+			"AdvanceGroupTableSeeder",
+			"AdvanceTransactionsTableSeeder",
+			"::class",
+			"getTotalRecoupmentCategoryCodeByCalculatorRun",
+			"rate",
+			"app",
+			"setCalculatorProfile",
+			"CreateInvoiceCommandHandler",
+			"PubModuleCommand",
+			"setcalcul",
+			"Repo",
+			"InvoiceDetailRepo",
+			"payable",
+			"getAmountDue",
+			"        $invoiceTypeId = app('Hfa\\Models\\InvoiceType')->first()->id;\n",
+			"        $this->call(InvoiceDescriptionOverrideTableSeeder::class);\n",
+			"clear",
+			"namespace",
+			"log",
+			"dropAndCreateSchema",
+			"spec/Models/ReportOutputSpec.php",
+			"reportTemplateId",
+			"169.254.169.254",
+			"            'stagingTable' => 'required|string'\n",
+			"Validator",
+			"putObject",
+			"putObject(",
+			"DeliveryArr",
+			"_errorHandler",
+			"PhpErrorException",
+			"Uri::resolve",
+			"resolve(",
+			"throw",
+			"function disk(",
+			"guzz",
+			"Uri::resolve",
+			"::resolve",
+			"test",
+			"info(",
+			"function pushHandler",
+			"pushHandler",
+			"configureMonologUsing",
+			"monolog",
+			"error",
+			"monolog",
+			"configureMonologUsing",
+			"popHandler",
+			"Psr7\\Uri",
+			"it(\"upload file to S3\", function () {\n            expect($obj->deliverS3('test.php'));\n        });",
+			"+",
+			"     * @param  $stagingTable, $stagingOrder\n",
+			"inted",
+			"inten",
+			"tab",
+			"log",
+			"lumen.log",
+			"            $data = $data->toArray();\n",
+			"hasOneHundredDirectDealWith"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								563,
+								563
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 38.0
+	},
+	"output.phpcs_result_view":
+	{
+		"height": 33.0
+	},
+	"pinned_build_system": "",
+	"project": "tree.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"endpo",
+				"config\\endpoints\\endpoints.php"
+			],
+			[
+				"invoiceprofilet",
+				"database\\seeds\\InvoiceProfilesTableSeeder.php"
+			],
+			[
+				"createinvoice",
+				"app\\Commands\\CreateInvoiceCommand.php"
+			],
+			[
+				"mcalculatorr",
+				"app\\Models\\CalculatorRun.php"
+			],
+			[
+				"adv",
+				"app\\Repos\\AdvanceRepo.php"
+			],
+			[
+				"radva",
+				"app\\Repos\\AdvanceRepo.php"
+			],
+			[
+				"log",
+				"vendor\\illuminate\\support\\Facades\\Log.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 835.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
