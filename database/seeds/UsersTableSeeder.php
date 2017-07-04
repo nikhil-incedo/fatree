@@ -17,6 +17,7 @@ class UsersTableSeeder extends Seeder
 			if($i%2 == 1) {
 				$a = ['gender' => 'M'];
 			}
+            $a['level'] = 1;
 			factory(User::class)->create($a);
 		}
 		//factory(Account::class)->create($account);

@@ -15,8 +15,8 @@ class CreateRelationsTable extends Migration
     {
         Schema::create('relations', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('related_id');
-            $table->string('user_id');
+            $table->number('related_id');
+            $table->number('user_id');
             $table->enum('related_type', ['father', 'mother', 'spouse']);
             $table->timestamps();
         });

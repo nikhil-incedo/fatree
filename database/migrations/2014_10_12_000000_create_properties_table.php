@@ -15,8 +15,10 @@ class CreatePropertiesTable extends Migration
     {
         Schema::create('properties', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('user_id');
-            $table->string('estimate');
+            $table->number('user_id');
+            $table->number('estimate');
+            $table->number('bank');
+            $table->string('education');
             $table->timestamps();
         });
     }
@@ -30,5 +32,5 @@ class CreatePropertiesTable extends Migration
     {
         Schema::dropIfExists('properties');
     }
-	
+
 }

@@ -17,3 +17,6 @@ Route::get('/', function () {
 Route::get('/', 'SearchController@search')->name('search');
 Route::get('/match', 'SearchController@match');
 Route::get('/spouser', 'SearchController@makeSpouse');
+Route::get('/child', 'SearchController@makeChild');
+Route::post('/search', 'SearchController@searchByAadhar');
+

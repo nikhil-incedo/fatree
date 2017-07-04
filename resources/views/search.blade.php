@@ -79,12 +79,22 @@
 
                 <div class="links">
 					<div class="content">
-						<form method="post" action="">
-							<input type="text" name="search" class="searchBox" />
+						<form method="post" action="search">
+                            {{csrf_field()}}
+							<input type="text" placeholder="Enter Aadhar Number" name="aadhar" class="searchBox" />
+                            <input type="submit" value="Search" name="submit" style="color: green;padding:17px;font-weight: bold;" />
 						</form>
 					</div>
                 </div>
             </div>
+        </div>
+
+        <div style="font-color:#000;">
+            References<br />
+            246249138827<br />
+            734825025553<br />
+            969129093967<br />
+            132750044907<br />
         </div>
     </body>
 </html>

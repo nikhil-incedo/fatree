@@ -9,15 +9,11 @@ class User extends Authenticatable
 {
     //use Notifiable;
 
-    /**
-     * The attributes that are mass assignable.
-     *
-     * @var array
-     */
-        /**
-     * The attributes that should be hidden for arrays.
-     *
-     * @var array
-     */
-   
+    public function relations() {
+        return $this->hasMany('App\Relation');
+    }
+
+    public function Property() {
+        return $this->hasOne('App\Property');
+    }
 }
