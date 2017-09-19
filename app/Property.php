@@ -8,6 +8,7 @@ class Property extends Model
 {
     //use Notifiable;
 
+	//test
     /**
      * The attributes that are mass assignable.
      *

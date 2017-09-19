@@ -4,6 +4,58 @@
 		"selected_items":
 		[
 			[
+				"col",
+				"color"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"related",
+				"relatedUsers"
+			],
+			[
+				"rela",
+				"relatedUsers"
+			],
+			[
+				"relate",
+				"relatedUsers"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"getChild",
+				"getChildrenId"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"relat",
+				"relation"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"marrie",
+				"marriedWomen"
+			],
+			[
+				"user_",
+				"user_id"
+			],
+			[
 				"invoi",
 				"invoiceLineData"
 			],
@@ -96,10 +148,72 @@
 	"buffers":
 	[
 		{
-			"file": "server.php",
+			"file": "resources/views/search.blade.php",
 			"settings":
 			{
-				"buffer_size": 563,
+				"buffer_size": 2689,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 806,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/family.blade.php",
+			"settings":
+			{
+				"buffer_size": 16571,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/seeds/PropertiesTableSeeder.php",
+			"settings":
+			{
+				"buffer_size": 398,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/factories/PropertyFactory.php",
+			"settings":
+			{
+				"buffer_size": 703,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/SearchController.php",
+			"settings":
+			{
+				"buffer_size": 9761,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/User.php",
+			"settings":
+			{
+				"buffer_size": 356,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Relation.php",
+			"settings":
+			{
+				"buffer_size": 537,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -155,8 +269,45 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/familytree",
+		"/C/xampp/htdocs/familytree/app",
+		"/C/xampp/htdocs/familytree/app/Http",
+		"/C/xampp/htdocs/familytree/app/Http/Controllers",
+		"/C/xampp/htdocs/familytree/app/Http/Controllers/Auth",
+		"/C/xampp/htdocs/familytree/database",
+		"/C/xampp/htdocs/familytree/database/factories",
+		"/C/xampp/htdocs/familytree/database/migrations",
+		"/C/xampp/htdocs/familytree/database/seeds",
+		"/C/xampp/htdocs/familytree/resources",
+		"/C/xampp/htdocs/familytree/resources/views",
+		"/C/xampp/htdocs/familytree/routes"
+	],
 	"file_history":
 	[
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/familytree/database/migrations/2014_10_12_000000_create_properties_table.php",
+		"/C/xampp/htdocs/familytree/database/factories/UserFactory.php",
+		"/C/xampp/htdocs/familytree/database/seeds/PropertiesTableSeeder.php",
+		"/C/xampp/htdocs/familytree/database/factories/ChildFactory.php",
+		"/C/xampp/htdocs/familytree/database/factories/PropertyFactory.php",
+		"/C/xampp/htdocs/familytree/database/seeds/UsersTableSeeder.php",
+		"/C/xampp/htdocs/familytree/database/factories/RelationFactory.php",
+		"/C/xampp/htdocs/familytree/app/Property.php",
+		"/C/xampp/htdocs/familytree/database/seeds/ChildTableSeeder.php",
+		"/C/xampp/htdocs/familytree/app/Relation.php",
+		"/C/xampp/htdocs/familytree/database/factories/PropertiesFactory.php",
+		"/C/Users/amit.maan/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/amit.maan/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/C/xampp/htdocs/familytree/database/seeds/RelationsTableSeeder.php",
+		"/C/xampp/htdocs/familytree/routes/web.php",
+		"/C/xampp/htdocs/familytree/vendor/fzaninotto/faker/src/Faker/Generator.php",
+		"/C/xampp/htdocs/familytree/resources/views/match.blade.php",
+		"/C/xampp/htdocs/familytree/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/familytree/database/migrations/2014_10_12_000000_create_relations_table.php",
+		"/C/xampp/htdocs/familytree/.env",
+		"/C/xampp/htdocs/familytree/server.php",
 		"/D/hfaphp7/www/hfa-siren-v2/app/Repos/AdvanceTransactionRepo.php",
 		"/D/hfaphp7/www/hfa-siren-v2/app/Models/PublisherNameAddress.php",
 		"/D/hfaphp7/www/hfa-siren-v2/app/Repos/RoyaltyRepo.php",
@@ -242,10 +393,8 @@
 		"/D/hfaphp7/www/hfa-siren-v2/app/Commands/CommandHandler.php",
 		"/C/Users/amit.maan/AppData/Roaming/Sublime Text 3/Packages/User/PHP_CodeSniffer.sublime-settings",
 		"/C/Users/amit.maan/AppData/Roaming/Sublime Text 3/Packages/PHP_CodeSniffer/PHP_CodeSniffer.sublime-settings",
-		"/C/Users/amit.maan/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
 		"/C/Users/amit.maan/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
 		"/C/Users/amit.maan/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
-		"/C/Users/amit.maan/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
 		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/InvoiceOptionSpec.php",
 		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/PayeeGroupSpec.php",
 		"/D/hfaphp7/www/hfa-siren-v2/app/Models/PayeeGroup.php",
@@ -254,7 +403,6 @@
 		"/C/Users/amit.maan/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
 		"/C/Users/amit.maan/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/PayeeGroupsTableSeeder.php",
-		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
 		"/D/hfaphp7/www/hfa-siren-v2/app/Models/InvoiceSection.php",
 		"/D/hfaphp7/www/hfa-siren-v2/database/factories/InvoiceProfileFactory.php",
 		"/D/hfaphp7/www/hfa-siren-v2/database/factories/InvoiceLineFactory.php",
@@ -265,30 +413,11 @@
 		"/D/hfaphp7/www/hfa-siren-v2/app/Repos/AgreementRepo.php",
 		"/D/hfaphp7/www/hfa-siren-v2/app/Models/InvoiceLine.php",
 		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/InvoiceSpec.php",
-		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/InvoiceCategoryDetailSpec.php",
-		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/InvoiceDescriptionOverrideSpec.php",
-		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/CalculatorProfileSpec.php",
-		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/AdvanceTransactionSpec.php",
-		"/D/hfaphp7/www/hfa-siren-v2/app/Models/CalculatorProfile.php",
-		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/CalculationRateTypeSpec.php",
-		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/CalculationRateTypesTableSeeder.php",
-		"/D/hfaphp7/www/hfa-siren-v2/database/factories/CalculationRateTypeFactory.php",
-		"/D/hfaphp7/www/hfa-siren-v2/app/Models/CalculationRateType.php",
-		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/CategoryCodesTableSeeder.php",
-		"/D/hfaphp7/www/hfa-siren-v2/app/Commands/PubModule/PubModuleCommandHandler.php",
-		"/D/hfaphp7/www/hfa-siren-v2/app/Models/Calculation.php",
-		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/InvoiceLineSpec.php",
-		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/PayeeTypesTableSeeder.php",
-		"/D/hfaphp7/www/hfa-siren-v2/database/seeds/CalculatorRunsTableSeeder.php",
-		"/D/hfaphp7/www/hfa-siren-v2/app/Models/Agreement.php",
-		"/D/hfaphp7/www/hfa-siren-v2/app/Models/RateCalculationType.php",
-		"/D/hfaphp7/www/hfa-siren-v2/app/Commands/Command.php",
-		"/D/hfaphp7/www/hfa-siren-v2/vendor/laravel/framework/src/Illuminate/Foundation/Application.php",
-		"/D/hfaphp7/www/hfa-siren-v2/spec/Commands/CreateInvoiceCommandHandlerSpec.php"
+		"/D/hfaphp7/www/hfa-siren-v2/spec/Models/InvoiceCategoryDetailSpec.php"
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -307,6 +436,22 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"jquery",
+			"aria",
+			" aria-controls=\"propertyDetails\"",
+			"getParent",
+			"parent",
+			"parents",
+			"        \n",
+			"']",
+			"['",
+			"']",
+			"['",
+			"                        $insert['first_name'] = $faker->firstNameFemale\n",
+			"            'user_id' => '',\n",
+			"insert",
+			"save",
+			"secondryUser",
 			"getDates",
 			"invoices",
 			"use Hfa\\Models\\CalculatorRun;\n",
@@ -382,6 +527,10 @@
 		"regex": false,
 		"replace_history":
 		[
+			"",
+			"->",
+			"",
+			"->",
 			""
 		],
 		"reverse": false,
@@ -398,19 +547,49 @@
 			[
 				{
 					"buffer": 0,
-					"file": "server.php",
+					"file": "resources/views/search.blade.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 563,
+						"buffer_size": 2689,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								563,
-								563
+								2335,
+								2335
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 603.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -421,7 +600,185 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/family.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3253,
+								3253
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2509.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "database/seeds/PropertiesTableSeeder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "database/factories/PropertyFactory.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								686,
+								686
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/Http/Controllers/SearchController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7407,
+								7407
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2775.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/Relation.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
 					"type": "text"
 				}
 			]
@@ -464,13 +821,13 @@
 	},
 	"output.phpcs_result_view":
 	{
-		"height": 33.0
+		"height": 635.0
 	},
 	"pinned_build_system": "",
 	"project": "tree.sublime-project",
 	"replace":
 	{
-		"height": 72.0
+		"height": 70.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -479,6 +836,22 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"relatio",
+				"app\\Relation.php"
+			],
+			[
+				"migrauser",
+				"database\\migrations\\2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"seacontroller",
+				"app\\Http\\Controllers\\SearchController.php"
+			],
+			[
+				"route/we",
+				"routes\\web.php"
+			],
 			[
 				"endpo",
 				"config\\endpoints\\endpoints.php"

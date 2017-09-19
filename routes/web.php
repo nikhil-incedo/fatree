@@ -20,3 +20,7 @@ Route::get('/spouser', 'SearchController@makeSpouse');
 Route::get('/child', 'SearchController@makeChild');
 Route::post('/search', 'SearchController@searchByAadhar');
 
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

@@ -82,7 +82,7 @@
 						<form method="post" action="search">
                             {{csrf_field()}}
 							<input type="text" placeholder="Enter Aadhar Number" name="aadhar" class="searchBox" />
-                            <input type="submit" value="Search" name="submit" style="color: green;padding:17px;font-weight: bold;" />
+                            <input type="submit" value="Search" name="submit" style="background-color:green;padding:17px;font-weight: bold;" />
 						</form>
 					</div>
                 </div>
